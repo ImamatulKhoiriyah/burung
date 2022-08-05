@@ -1,0 +1,121 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Kicau Perkutut Lokal Gacor",
+      "image": "https://i.pinimg.com/564x/de/d2/db/ded2db39fcd5838ba2c8d85ce04ba6cf.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Kicau Perkutut Bangkok Juara",
+      "image": "https://i.pinimg.com/236x/f5/29/00/f52900d4753b1eedfb4ae4af66d58ffe.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Suara Burung Perkutut Master",
+      "image": "https://i.pinimg.com/236x/7b/d8/06/7bd80607791b1822bfc2addc58dfd521.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "Suara Pekutut Lokal Pemikat Paten",
+      "image": "https://i.pinimg.com/236x/b0/fe/f6/b0fef64a1eaba18b30c6d14e788e7073.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Kicau Perkutut Lokal Gacor",
+      "title": "Kicau Perkutut Lokal Gacor Vol.1",
+      "image": "https://i.pinimg.com/564x/93/67/41/93674114bc2f5ad600f70a4539d6353e.jpg",
+      "link_mp3": "https://archive.org/download/master-perkutut/-%20Master%20Perkutut%20v.1.mp3",
+      "lyrics": "KOSONG" },
+    {
+      "id": 2,
+      "name_category": "Kicau Perkutut Bangkok Juara",
+      "title": "Kicau Perkutut Bangkok Juara Vol.1",
+      "image": "https://i.pinimg.com/564x/a7/39/05/a73905f192ab1f2a7f89d26d5e8c41ea.jpg",
+      "link_mp3": "mp3/dosa_membawa_keburukan.ogg",
+      "lyrics": "KOSONG" },
+    {
+      "id": 3,
+      "name_category": "Suara Burung Perkutut Master",
+      "title": "Suara Burung Perkutut Master Vol.1",
+      "image": "https://i.pinimg.com/236x/61/06/f0/6106f0b8226b1e005402cc74aad73211.jpg",
+      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/lapang_dada.mp3",
+      "lyrics": "KOSONG"
+    },
+    {
+      "id": 4,
+      "name_category": "Suara Pekutut Lokal Pemikat Paten",
+      "title": "Suara Pekutut Lokal Pemikat Paten Vol.1",
+      "image": "https://i.pinimg.com/236x/c8/7a/78/c87a78efcebc9d744cad230291c2df3e.jpg",
+      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/cambuk.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 5,
+      "name_category": "Kicau Perkutut Lokal Gacor",
+      "title": "Kicau Perkutut Lokal Gacor Vol.2",
+      "image": "https://i.pinimg.com/236x/09/8d/67/098d67b6631d57d79b95637dbc6da053.jpg",
+      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/tenang.mp3",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 6,
+      "name_category": "Kicau Perkutut Bangkok Juara",
+      "title": "Kicau Perkutut Bangkok Juara Vol.2",
+      "image": "https://i.pinimg.com/236x/6f/25/fb/6f25fbe673c456e71e57d4311adb8904.jpg",
+      "link_mp3": "mp3/kim.ogg",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 6,
+      "name_category": "Kicau Perkutut Bangkok Juara",
+      "title": "Kicau Perkutut Bangkok Juara Vol.2",
+      "image": "https://i.pinimg.com/236x/6f/25/fb/6f25fbe673c456e71e57d4311adb8904.jpg",
+      "link_mp3": "mp3/kim.ogg",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 6,
+      "name_category": "Kicau Perkutut Bangkok Juara",
+      "title": "Kicau Perkutut Bangkok Juara Vol.2",
+      "image": "https://i.pinimg.com/236x/6f/25/fb/6f25fbe673c456e71e57d4311adb8904.jpg",
+      "link_mp3": "mp3/kim.ogg",
+      "lyrics": "KOSONG"
+    }
+  ,
+    {
+      "id": 6,
+      "name_category": "Kicau Perkutut Bangkok Juara",
+      "title": "Kicau Perkutut Bangkok Juara Vol.2",
+      "image": "https://i.pinimg.com/236x/6f/25/fb/6f25fbe673c456e71e57d4311adb8904.jpg",
+      "link_mp3": "mp3/kim.ogg",
+      "lyrics": "KOSONG"
+    }	
+  ]
+}
